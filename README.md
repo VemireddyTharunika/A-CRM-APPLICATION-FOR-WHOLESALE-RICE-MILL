@@ -1,1 +1,1 @@
-The Rice Mill CRM Application is a comprehensive solution for managing and simplifying rice production and sales tracking. It enables daily reporting on rice quantity, type, and sales, which is then communicated to the owners. This CRM leverages customer relationship management to enhance customer engagement, streamline operations, and improve efficiency in the rice mill factory. The project aims to deliver a user-friendly application that meets the specific operational needs of a rice mill.
+
